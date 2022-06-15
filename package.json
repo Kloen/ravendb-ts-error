@@ -1,0 +1,17 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/app",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ravendb": "^5.2.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  }
+}
